@@ -10,7 +10,7 @@ public class PrintConsole : MonoBehaviour
 
     private void Start()
     {
-        VRInput = VRInput.Instance;
+       
     }
     public void PrintMessage(string message)
     {
